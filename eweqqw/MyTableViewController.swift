@@ -10,9 +10,9 @@ import UIKit
 
 class MyTableViewController: UITableViewController {
     
-    var foodstorename = ["늘해랑", "번개반점"]
-    var foodstoreaddress = ["부산광역시 부산진구 양정1동 350-1", "부산광역시 부산진구 양정동 418-282"]
-
+    var foodstorename = ["늘해랑", "번개반점","홍콩반점", "늘맛있는족발집"]
+    var foodstoreaddress = ["부산광역시 부산진구 양정1동 350-1", "부산광역시 부산진구 양정동 418-282","부산광역시 부산진구 양정2동 352-3","부산광역시 부산진구 양정동 413-34"]
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
